@@ -5,7 +5,9 @@
 
 ## 🤖 Tecnologias Utilizadas
 • Roteirização: A criação do roteiro foi feita com uma IA de linguagem avançada, como o ChatGPT, capaz de escrever conteúdos de forma coesa e criativa, alinhada com o tema e o estilo desejado.
+
 • Clonagem e Sintetização de Voz: Uma IA generativa de voz foi usada para criar uma narração sintética, imitando vozes humanas com fluidez e clareza. Tecnologias como o ElevenLabs ou o Google Text-to-Speech podem ser usadas para gerar vozes naturais com entonações precisas.
+
 • Edição e Montagem: Para editar o áudio e montar o episódio, ferramentas de IA, como Descript ou Adobe Podcast, foram empregadas para refinar o som, ajustar o ritmo e eliminar ruídos automaticamente.
 
 ## 🧐 Processo de Criação
