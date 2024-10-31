@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Descobrindo IAs Generativas em 5 Minutos ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+“Descobrindo IAs Generativas em 5 Minutos” é um podcast de curta duração que explora como as inteligências artificiais generativas estão transformando o conteúdo digital, desde roteiros até vozes sintéticas e edições automatizadas. Este episódio traz um panorama da tecnologia de IA usada no processo de criação de podcasts, apresentando ferramentas que economizam tempo e elevam a qualidade do áudio final.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Roteirização: A criação do roteiro foi feita com uma IA de linguagem avançada, como o ChatGPT, capaz de escrever conteúdos de forma coesa e criativa, alinhada com o tema e o estilo desejado.
+Clonagem e Sintetização de Voz: Uma IA generativa de voz foi usada para criar uma narração sintética, imitando vozes humanas com fluidez e clareza. Tecnologias como o ElevenLabs ou o Google Text-to-Speech podem ser usadas para gerar vozes naturais com entonações precisas.
+Edição e Montagem: Para editar o áudio e montar o episódio, ferramentas de IA, como Descript ou Adobe Podcast, foram empregadas para refinar o som, ajustar o ritmo e eliminar ruídos automaticamente.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo começa com a geração do roteiro pela IA de linguagem. Em seguida, o texto é passado para uma IA de voz, que gera o áudio. Finalmente, a gravação é tratada com uma IA de edição que organiza, corta e ajusta os detalhes sonoros do podcast.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O podcast apresenta uma qualidade quase profissional em menos tempo e com menos recursos, simulando uma produção feita por humanos. As vozes são naturais, o conteúdo é bem estruturado e a edição é quase perfeita, evidenciando o potencial de uso das IAs na produção criativ
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um produto “natty” (natural) com IA apresenta desafios de autenticidade e personalidade. Por mais realista que a tecnologia tenha se tornado, ainda é um desafio garantir que a experiência não soe “forçada” ou excessivamente mecânica, principalmente em aspectos subjetivos, como emoção e nuances vocais. Isso traz à tona a questão de até que ponto a IA pode replicar com fidelidade uma comunicação genuinamente humana, especialmente em um formato íntimo como o podcast.
